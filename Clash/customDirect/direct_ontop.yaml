@@ -11,7 +11,7 @@ payload:
   - DOMAIN-REGEX,^flowith.*
 
   # > others
-  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,parallels.com
   - DOMAIN-KEYWORD,parallel
   - DOMAIN-SUFFIX,gamer520.com
