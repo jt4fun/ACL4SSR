@@ -1,0 +1,7 @@
+# Name: other_pxy
+# pxy rule-set to be put next to direct_ontop, self use only
+payload:
+  - DOMAIN-SUFFIX,opendns.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN,download.parallels.com
