@@ -7,8 +7,8 @@ payload:
   - DOMAIN-SUFFIX,hf-mirror.com
   
   - DOMAIN-SUFFIX,flowith.net
-  - DOMAIN-SUFFIX,flowith.io
-  - DOMAIN-REGEX,^flowith.*
+  ##- DOMAIN-SUFFIX,flowith.io
+  - DOMAIN-REGEX,^flowith.*.app
 
   # > others
   - DOMAIN-SUFFIX,jsdelivr.net
