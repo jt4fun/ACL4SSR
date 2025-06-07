@@ -1,0 +1,40 @@
+# NAME: other_direct
+# rule-sets for direct and put on top of rules,just for self use
+payload:
+  - DOMAIN-SUFFIX,shopee.cn,DIRECT
+  - DOMAIN-SUFFIX,moeyy.xyz,DIRECT
+  - DOMAIN-KEYWORD,gh-proxy,DIRECT
+  - DOMAIN-SUFFIX,hf-mirror.com,DIRECT
+  
+  - DOMAIN-SUFFIX,flowith.net,DIRECT
+  - DOMAIN-SUFFIX,flowith.io,DIRECT
+  - DOMAIN-REGEX,^flowith.*,DIRECT
+
+  # > others
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,parallels.com
+  - DOMAIN-KEYWORD,parallel
+  - DOMAIN-SUFFIX,gamer520.com
+  - DOMAIN-KEYWORD,tailscale
+  - DOMAIN-SUFFIX,blackmagicdesign.com
+  - DOMAIN-SUFFIX,ableton.com
+  - DOMAIN-SUFFIX,iwik.org
+  - DOMAIN-KEYWORD,yinfans
+  - DOMAIN-SUFFIX,yiso.fun
+  - DOMAIN-SUFFIX,beijicloud.top,DIRECT
+  - DOMAIN-SUFFIX,paoluz.link,DIRECT
+
+  
+    # nvidia related
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-KEYWORD,nvidia
+  - DOMAIN-KEYWORD,geforce
+  
+  # > game related
+  - DOMAIN-KEYWORD,gog
+  - DOMAIN-KEYWORD,cdpred
+  - DOMAIN-SUFFIX,cdprojektred.com
+  - DOMAIN-SUFFIX,darkreader.org
+  
+  ##use when dowdlowd nexusmods as external links
+  - DOMAIN-SUFFIX,spyderrock.com  
