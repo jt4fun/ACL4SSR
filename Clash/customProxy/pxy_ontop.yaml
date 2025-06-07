@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN,download.parallels.com
+  - DOMAIN-SUFFIX,gstatic.com
