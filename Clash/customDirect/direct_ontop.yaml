@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,beijicloud.top
   - DOMAIN-SUFFIX,paoluz.link
 
+    # local router
+  - DOMAIN-SUFFIX,zte.home
   
     # nvidia related
   - DOMAIN-SUFFIX,nvidia.com
