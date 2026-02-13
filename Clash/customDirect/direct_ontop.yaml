@@ -37,6 +37,9 @@ payload:
   - DOMAIN-KEYWORD,cdpred
   - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,darkreader.org
+  ## wrc related
+  - DOMAIN-SUFFIX,kylotonn.com
+  - DOMAIN-SUFFIX,amplitude.com
   
   ##use when dowdlowd nexusmods as external links
   - DOMAIN-SUFFIX,spyderrock.com  
