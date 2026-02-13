@@ -5,3 +5,6 @@ payload:
 ##deathstranding
   - DOMAIN-SUFFIX,api.wwsga.me
   - DOMAIN-SUFFIX,wws-gs2.com
+## wrc related
+  - DOMAIN-SUFFIX,kylotonn.com
+  - DOMAIN-SUFFIX,amplitude.com
